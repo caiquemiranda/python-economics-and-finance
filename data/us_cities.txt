@@ -1,4 +1,3 @@
-
 new york: 8244910
 los angeles: 3819702
 chicago: 2707120
